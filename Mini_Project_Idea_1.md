@@ -9,5 +9,6 @@ Organizations such as the [Anti-Defamation League](https://www.adl.org) and [Sta
 
 For my project, I will use regression models. This will allow me to understand which factors are affecting my depedent variable, the rate of antisemetic acts. Ridge regression may be very useful, however I will need to see how coorelated my data is and how each types of model reacts to it.
 
-Analyzing what is driving the increase in antisemitic hate crimes in the U.S. is a task that is not only useful for stakeholders at organizations, such as the ADL to be able to more accurately target causes, but also to members of the U.S. government. For example, Zohran Mamdani is the mayor of New York City, where anti-jewish acts are the most prominent in America. Being able to pinpoint key factors could greately improve the effectiveness of these stakeholders' efforts to combat this hatred and protect the Jews of America.
+Analyzing what is driving the increase in antisemitic hate crimes in the U.S. is a task that is not only useful for stakeholders at organizations, such as the ADL to be able to more accurately target causes, but also to government officials, such as Zohran Mamdani, the mayor of New York City, where anti-jewish acts are the most prominent in America. Being able to pinpoint key factors could greately improve the effectiveness of these stakeholders’ efforts to combat this hatred and protect the Jews of America.
+
 
